@@ -1,0 +1,27 @@
+# Roblox place files (the place lives in Team Create, not Git)
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxm
+*.rbxmx
+
+# Rojo / tooling
+/sourcemap.json
+/Packages
+/ServerPackages
+/DevPackages
+
+# Blender autosaves / backups
+*.blend1
+*.blend2
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/settings.json
+
+# Secrets
+.env
+*.key
